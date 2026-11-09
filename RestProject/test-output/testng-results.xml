@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-11-05T08:32:18 IST" name="Default suite" finished-at="2026-11-05T08:32:20 IST" duration-ms="1963">
+    <groups>
+    </groups>
+    <test started-at="2026-11-05T08:32:18 IST" name="Default test" finished-at="2026-11-05T08:32:20 IST" duration-ms="1963">
+      <class name="APITest1.StudentTest">
+        <test-method signature="createStudent()[pri:0, instance:APITest1.StudentTest@63021689]" started-at="2026-11-05T08:32:18 IST" name="createStudent" finished-at="2026-11-05T08:32:20 IST" duration-ms="1775" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createStudent -->
+        <test-method signature="getInvalidStudent()[pri:0, instance:APITest1.StudentTest@63021689]" started-at="2026-11-05T08:32:20 IST" name="getInvalidStudent" finished-at="2026-11-05T08:32:20 IST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getInvalidStudent -->
+        <test-method signature="getStudent1()[pri:0, instance:APITest1.StudentTest@63021689]" started-at="2026-11-05T08:32:20 IST" name="getStudent1" finished-at="2026-11-05T08:32:20 IST" duration-ms="97" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStudent1 -->
+      </class> <!-- APITest1.StudentTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
